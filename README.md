@@ -1,4 +1,4 @@
-# TII-SSRC-23 Dataset: A Resource for Cybersecurity Research and Machine Learning
+# Intrusion Detection System and Machine Learning TII-SSRC-23 Dataset
 
 ## Overview
 The **TII-SSRC-23** dataset is a comprehensive collection of network traffic data designed to support cybersecurity and network analysis research. This dataset includes both benign and malicious traffic types, addressing challenges like class imbalance and large size. The dataset has been preprocessed and balanced for effective use in machine learning projects.
